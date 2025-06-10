@@ -27,6 +27,3 @@ Organizing project files and assets in a scalable way
 This project is open for educational and non-commercial use. No formal license attached.
 
 
-
-
-# odin-recipes
