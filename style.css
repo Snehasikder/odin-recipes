@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(221, 176, 161);
+}
+.a{
+    background-color: antiquewhite;
+  font-family: "Edu SA Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: rgba(0, 0, 0, 0.95);
+}
+.i{
+   display:flex;
+   align-items:center;
+   justify-content: center;
+   gap:100px;
+   margin-top: 80px;
+   margin-right: auto;
+   margin-left:auto;
+   width:150px;
+   height:100%;
+}
+.b{
+    width:60%;
+    background-color: rgb(124, 133, 101);
+    border-radius: 12px;
+    padding:5px;
+    margin-left: auto;
+    margin-right:auto;
+}
+iframe{
+    justify-content: center;
+    display: flex;
+    width:50%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.e{ 
+    background-color: brown;
+    color: antiquewhite;
+    justify-content:center;
+    border-radius: 4px;
+    border-top: 4px;
+    border-bottom: 4px;
+    width:30%;
+    height:35px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+.i-a{
+    display: flex;
+    gap: 20px;
+    height:325px;
+    width:70%;
+    justify-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.i-b{
+    display:flex;
+    gap: 20px;
+    height: 125px;
+    width: 40%;
+    justify-items: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.i-c{
+    display:flex;
+    margin-right:auto;
+    margin-left:427px;
+    height:100%;
+    width:40px;
+    justify-items: center;
+}
+
+
+.f{
+    /* border: solid; */
+    /* border-radius: black; */
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 20px;
+    height:100px;
+    width:20%;
+    /* box-shadow: 4px 4px 5px; */
+}
