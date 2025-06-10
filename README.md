@@ -1,7 +1,7 @@
 🍽️ Odin Recipes
 Welcome to Odin Recipes – a simple, responsive website showcasing delicious recipes, created as part of The Odin Project foundation curriculum. This project demonstrates basic HTML skills and structuring of content for the web.
 
-🌐 Live Site: snehasikder.github.io/odin-recipes
+🌐 Live Site: https://snehasikder.github.io/odin-recipes/
 
 📌 Project Overview
 The primary objective of this project is to practice and demonstrate:
