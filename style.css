@@ -107,3 +107,7 @@ iframe {
   text-decoration: none;
   text-shadow: 0.9px 0.8px 0.7px rgba(0, 0, 0, 0.95);
 }
+.icon {
+  width: 1.5rem;
+  height: 1.5rem;
+}
